@@ -12,7 +12,24 @@ Below is a snippet from the `vdc.geojson` file. It is the properties element for
 * It is in the Central Development Region
 * It is in the country of Nepal
 
-```
-{"ID_0":157,"ISO":"NPL","NAME_0":"Nepal","ID_1":1,"NAME_1":"Central","ID_2":1,"NAME_2":"Bagmati","ID_3":1,"NAME_3":"Bhaktapur","ID_4":1,"NAME_4":"Bageswari","VARNAME_4":"","CCN_4":0,"CCA_4":"","TYPE_4":"Village development committee","ENGTYPE_4":"Village development committee"}
+```json
+{
+  "ID_0": 157,
+  "ISO": "NPL",
+  "NAME_0": "Nepal",
+  "ID_1": 1,
+  "NAME_1": "Central",
+  "ID_2": 1,
+  "NAME_2": "Bagmati",
+  "ID_3": 1,
+  "NAME_3": "Bhaktapur",
+  "ID_4": 1,
+  "NAME_4": "Bageswari",
+  "VARNAME_4": "",
+  "CCN_4": 0,
+  "CCA_4": "",
+  "TYPE_4": "Village development committee",
+  "ENGTYPE_4": "Village development committee"
+}
 ```
  
