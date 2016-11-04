@@ -32,4 +32,12 @@ Below is a snippet from the `vdc.geojson` file. It is the properties element for
   "ENGTYPE_4": "Village development committee"
 }
 ```
- 
+
+# wz-vdc.geojson file creation
+
+`wz-vdc.geojson` was created by editing the properties element for each entry in the `vdc.geojson` file.
+
+# wz-vdc.topojson file creation
+
+`wz-vdc.topojson` was created by uploading `wz-vdc.geojson` to http://www.mapshaper.org and then exporting it as topojson data
+
