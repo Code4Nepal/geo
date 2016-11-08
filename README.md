@@ -1,8 +1,8 @@
-# vdc.geojson file creation
+# gadm/vdc.geojson file creation
 
-`vdc.geojson` was created from Nepal shapefile data downloaded from http://gadm.org. The zip of shapefile data was uploaded to http://www.mapshaper.org and then downloaded as geojson data for administrative level 4, the village development committee level.
+`gadm/vdc.geojson` was created from Nepal shapefile data downloaded from http://gadm.org. The zip of shapefile data was uploaded to http://www.mapshaper.org and then downloaded as geojson data for administrative level 4, the village development committee level.
 
-# vdc.geojson property structure example
+# gadm/vdc.geojson property structure example
 
 Below is a snippet from the `vdc.geojson` file. It is the properties element for one of the VDCs.
 
@@ -33,11 +33,11 @@ Below is a snippet from the `vdc.geojson` file. It is the properties element for
 }
 ```
 
-# wz-vdc.geojson file creation
+# nepalmap/vdc.geojson file creation
 
-`wz-vdc.geojson` was created by editing the properties element for each entry in the `vdc.geojson` file.
+`nepalmap/vdc.geojson` was created by editing the properties element for each entry in the `vdc.geojson` file.
 
-# wz-vdc.topojson file creation
+# nepalmap/vdc.topojson file creation
 
-`wz-vdc.topojson` was created by uploading `wz-vdc.geojson` to http://www.mapshaper.org and then exporting it as topojson data
+`nepalmap/vdc.topojson` was created by uploading `nepalmap/vdc.geojson` to http://www.mapshaper.org and then exporting it as topojson data
 
